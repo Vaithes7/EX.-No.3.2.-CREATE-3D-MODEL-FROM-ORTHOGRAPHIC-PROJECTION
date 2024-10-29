@@ -39,11 +39,13 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823415-9d0a9454-b197-44bf-b90f-179c75602500.png)
 
 ## INPUT:
-![image](https://github.com/user-attachments/assets/f006c3b8-f5f2-4b83-925a-216664aeb770)
+![image](https://github.com/user-attachments/assets/f8a5e2df-6573-4496-a136-3c1b7c16bfe0)
+
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/f3fe1ea7-4834-4c88-86f7-563d14ba1ea7)
+![image](https://github.com/user-attachments/assets/48ac006a-2f8d-4883-b846-453031b04266)
+
 
 
 
